@@ -2,7 +2,7 @@
 
 * [Grid by Example](https://gridbyexample.com/)
 
-* [Grid Systems (generally)](http://thegridsystem.net/)
+* [Grid Systems (generally)](http://thegridsystem.net/). Important note: the site is down according to https://downforeveryoneorjustme.com/thegridsystem.net
 
 * [A Complete Guide to Grid by CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
