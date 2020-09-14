@@ -16,7 +16,7 @@
 
 * [CSS-Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-* [List of all FLEXBOX Layout properties](http://fullstackwebdeveloper.net/list-of-all-flexbox-layout-properties/)
+* [List of all FLEXBOX Layout properties](http://fullstackwebdeveloper.net/list-of-all-flexbox-layout-properties/). Important note: 404 page and 403 server errors of this link appear.
 
 * [CSS FlexBox YouTube Playlist by NetNinja](https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
 
